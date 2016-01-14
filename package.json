@@ -55,6 +55,8 @@
     "react": "^0.14.6"
   },
   "dependencies": {
+    "moment": "^2.11.1",
+    "ramda": "^0.19.1",
     "react-karaoke-lyric": "^0.2.0"
   }
 }
